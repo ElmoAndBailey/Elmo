@@ -1,8 +1,20 @@
 body {
-    background-color:lavenderblush;
+    background-color:mintcream;
+    font-family: 'Pacifico', cursive;
+    color: salmon;
+    font-size: 20px;
 }
-.ElmoStuff {
+.video {
+
+    display:flex;
+    justify-content: center;
+    width: 100%;
+    
+    
+}
+ol{
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+    justify-content: flex-start;
 }
 
