@@ -1,5 +1,5 @@
 body {
-    background-color:mintcream;
+    background-color: white;
     font-family: 'Walter Turncoat', cursive;
     color: salmon;
     font-size: 20px;
@@ -17,4 +17,3 @@ ol{
     flex-direction: column;
     justify-content: flex-start;
 }
-
