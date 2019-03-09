@@ -17,3 +17,11 @@ ol{
     flex-direction: column;
     justify-content: flex-start;
 }
+
+@media all and (max-width:600px) {
+    body {
+        
+        background-color: pink;
+    }
+}
+
